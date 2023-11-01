@@ -1,5 +1,5 @@
 # Home-Expense-Tracker-Figma-
-# Home Expense Tracker
+
 
 Welcome to the Home Expense Tracker project! This is a simple and efficient tool to help you manage and keep track of your household expenses. Whether you're looking to create a budget, monitor your spending habits, or simply gain better control over your financial transactions, this application is designed to make it easy for you.
 
